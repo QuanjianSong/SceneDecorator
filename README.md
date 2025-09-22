@@ -4,4 +4,4 @@ SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and 
 </h1>
 </div>
 
-The code will be available as soon as possible.
+The code and paper will be available as soon as possible.
